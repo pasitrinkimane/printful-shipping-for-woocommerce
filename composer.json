@@ -1,0 +1,8 @@
+{
+    "name": "newcool/printful-shipping-for-woocommerce",
+    "description": "printful-shipping-for-woocommerce - 2.1.30",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": "^7.2"
+    }
+}
